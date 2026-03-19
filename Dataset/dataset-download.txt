@@ -2,4 +2,4 @@ We have used AL9EE dataset
 
 Link: https://figshare.com/articles/dataset/AppleLeaf9-Enhanced_Edition_AL9EE_/23606010
 
-Download this dataset form the above link place it in a folder and replace the folder structure with your own for the dataset path in the ipynb file.
+Download this dataset form the above link and place it in a folder and replace the folder structure with your own for the dataset path in the ipynb file.
