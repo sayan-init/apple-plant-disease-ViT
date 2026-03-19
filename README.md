@@ -76,23 +76,6 @@ It contains:
 
 ---
 
-## 📁 Project Structure
-APPLE_VIT/
-│
-├── Dataset/
-│ └── dataset_description.txt
-│
-├── saved_model/
-│ └── (trained model files)
-│
-├── AppleMD.ipynb
-├── model_load_test.py
-├── vit_streamlit.py
-└── README.md
-
-
----
-
 ## ⚙️ How It Works
 
 1. User uploads an apple leaf image  
