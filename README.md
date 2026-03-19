@@ -115,28 +115,24 @@ It contains:
 
 ## 📸 Demo / Screenshots
 
-> Add your Streamlit UI output here
 ![output image](image-1.png)
 
 🛠️ Installation
 
-1. Clone the repository
+1.Clone the repository
 
 git clone https://github.com/your-username/APPLE_VIT.git
 cd APPLE_VIT
 
-2. Create virtual environment
+2.Create virtual environment
 
 python -m venv venv
 
-3. Activate environment
+3.Activate environment
 
 Windows -> venv\Scripts\activate
 
 Linux/macOS -> source venv/bin/activate
-
-4. Install dependencies
-pip install -r requirements.txt
 
 If not available:
 
